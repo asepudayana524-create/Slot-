@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Slot Pragmatic",
+  "description": "Simulasi slot Pragmatic Play dengan fitur simulasi transfer saldo ke e-wallet seperti DANA, OVO, dan GoPay lengkap dengan struk sukses transfer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
